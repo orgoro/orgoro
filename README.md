@@ -1,4 +1,11 @@
-### Hi there 👋
+ ___   ___    _______     
+|\  \ |\  \  /  ___  \    
+\ \  \\_\  \/__/|_/  /|   
+ \ \______  \__|//  / /   
+  \|_____|\  \  /  /_/__  
+         \ \__\|\________\
+          \|__| \|_______|
+                         
 
 <!--
 **orgoro/orgoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
